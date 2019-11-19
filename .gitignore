@@ -1,0 +1,34 @@
+# Created by .ignore support plugin (hsz.mobi)
+### SS TypeScript WebStorm template
+# Created by .ignore support plugin (hsz.mobi)
+node_modules
+coverage
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/*.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/typescript-compiler.xml
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/modules.xml
+package-lock.json
+platforms/ios/.build_env_vars.sh
+platforms/ios/.ns-plugins-build-data.json
+platforms/ios/Podfile
+platforms/ios/Podfile.lock
+platforms/ios/Pods/
+platforms/ios/build/
+platforms/ios/internal/
+platforms/ios/nsFireMessage2.xcodeproj/
+platforms/ios/nsFireMessage2.xcworkspace/
+platforms/ios/nsFireMessage2/
+platforms/ios/plugins-debug.xcconfig
+platforms/ios/plugins-release.xcconfig

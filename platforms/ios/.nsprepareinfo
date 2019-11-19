@@ -1,7 +1,8 @@
 {
-	"time": "",
-	"nativePlatformStatus": "1",
+	"time": "Mon Nov 18 2019 23:10:18 GMT-0500 (Eastern Standard Time)",
+	"nativePlatformStatus": "3",
+	"release": false,
 	"changesRequireBuild": true,
-	"projectFileHash": "68b6d2c1ce70ef895f07ae8f70b802f3ddce95e4e4fd3d14e0ddcd6c4c879a22",
-	"changesRequireBuildTime": null
+	"projectFileHash": "7ebbda7437229f1c2919ad6d27c1a524675a640173e56559b21bfe6736fc5fbd",
+	"changesRequireBuildTime": "Mon Nov 18 2019 23:10:18 GMT-0500 (Eastern Standard Time)"
 }
